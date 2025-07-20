@@ -37,8 +37,12 @@ EmployeeApi/
 ├── Program.cs
 └── Startup.cs (if applicable)
 
+---
+
+
+
 🔗 Related Projects
-🔗 Frontend (Angular)
+🔗 Frontend ([Angular](https://github.com/MustafaHassaan/employee-crud-angular))
 
 🧑‍💻 Developer
 Mostafa Hassaan
