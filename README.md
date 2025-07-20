@@ -5,11 +5,22 @@ Built using **ASP.NET Core Web API**, it provides endpoints to perform Create, R
 
 ---
 
-## 🔧 Technologies Used
+## 🚀 Features
 
-- ASP.NET Core 8
-- C#
-- In-Memory Data Storage (can be extended to use SQLite or SQL Server)
+- 📋 Get all employees
+- 🔍 Get employee by ID
+- ➕ Create new employee
+- ✏️ Update existing employee
+- ❌ Delete employee
+
+---
+
+## 🛠 Tech Stack
+
+- ✅ ASP.NET Core 8
+- ✅ Entity Framework Core
+- ✅ SQL Server / LocalDB
+- ✅ C#
 
 ---
 
