@@ -36,7 +36,7 @@ Built using **ASP.NET Core Web API**, it provides endpoints to perform Create, R
 
 ---
 
-⚙️ Steps to run the project after downloading
+## ⚙️ Steps to run the project after downloading
  - Make sure you download and run the Angular project first
    - Frontend ([Frontend Angular](https://github.com/MustafaHassaan/employee-crud-angular))
  - Please change the ConnectionString link in the appsettings.json file.
