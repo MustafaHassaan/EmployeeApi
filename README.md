@@ -42,7 +42,7 @@ EmployeeApi/
 
 
 🔗 Related Projects
-Frontend ([Frontend Angular](https://github.com/MustafaHassaan/employee-crud-angular))
+ - Frontend ([Frontend Angular](https://github.com/MustafaHassaan/employee-crud-angular))
 
 🧑‍💻 Developer
 Mostafa Hassaan
