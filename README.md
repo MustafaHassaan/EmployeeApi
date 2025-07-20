@@ -25,18 +25,14 @@ Built using **ASP.NET Core Web API**, it provides endpoints to perform Create, R
 
 ---
 
-## 📁 Project Structure
-EmployeeApi/
-├── Controllers/
-│   └── EmployeesController.cs
-├── Models/
-│   └── Employee.cs
-├── Services/
-│   └── EmployeeService.cs
-├── Program.cs
-└── Startup.cs (if applicable)
-
-
+⚙️ Steps to run the project after downloading
+ - Make sure you download and run the Angular project first
+   - Frontend ([Frontend Angular](https://github.com/MustafaHassaan/employee-crud-angular))
+ - Please change the ConnectionString link in the appsettings.json file.
+ - Execute the following command to add the first migration:
+   - dotnet ef migrations add InitialCreate
+   - dotnet ef database update
+   - dotnet run
 ---
 
 🔗 Related Projects
