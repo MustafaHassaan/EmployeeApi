@@ -26,20 +26,18 @@ Built using **ASP.NET Core Web API**, it provides endpoints to perform Create, R
 ---
 
 ## 📁 Project Structure
-
 EmployeeApi/
 ├── Controllers/
-│ └── EmployeesController.cs
+│   └── EmployeesController.cs
 ├── Models/
-│ └── Employee.cs
+│   └── Employee.cs
 ├── Services/
-│ └── EmployeeService.cs
+│   └── EmployeeService.cs
 ├── Program.cs
 └── Startup.cs (if applicable)
 
+
 ---
-
-
 
 🔗 Related Projects
  - Frontend ([Frontend Angular](https://github.com/MustafaHassaan/employee-crud-angular))
@@ -47,4 +45,3 @@ EmployeeApi/
 🧑‍💻 Developer
 Mostafa Hassaan
 - 🔗 GitHub ([Profile](https://github.com/MustafaHassaan))
-تح
